@@ -33,7 +33,3 @@ Docker Hub is a cloud-based registry service where Docker images can be stored a
 
 ## Example: Running a Simple Web Server
 
-1. **Pull an Image**:  
-   Run the following command to pull a basic web server image (like Nginx):
-   ```bash
-   docker pull nginx
